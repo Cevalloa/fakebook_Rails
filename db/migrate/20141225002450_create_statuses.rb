@@ -8,3 +8,5 @@ class CreateStatuses < ActiveRecord::Migration
     end
   end
 end
+
+
